@@ -6,6 +6,8 @@ files:
     destination: /var/www/html
   - source: files/newpage.html
     destination: /var/www/html
+  - source: files/halloween.html
+    destination: /var/www/html
 
 permissions:
   - object: /var/www/html
